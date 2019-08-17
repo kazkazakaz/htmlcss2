@@ -67,10 +67,14 @@ main{
     width: 90%;
     margin: 0 auto;
     float: none;
+    margin-bottom: 20px;
   }
   .step-box:last-child{
      width: 90%;
     margin: 0 auto;
     float: none;
-  }
+    }
+    main{
+      width: 100%;
+    }
 }
