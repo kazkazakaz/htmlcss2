@@ -64,7 +64,13 @@ main{
 
 @media screen and (max-width:768px){
   .step-box{
-    width: 100%;
+    width: 90%;
+    margin: 0 auto;
+    float: none;
+  }
+  .step-box:last-child{
+     width: 90%;
+    margin: 0 auto;
     float: none;
   }
 }
